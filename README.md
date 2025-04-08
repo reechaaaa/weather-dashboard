@@ -34,7 +34,7 @@ A modern, responsive React weather application that provides real-time weather i
 
 3. Start the development server: npm run dev
 
-4. Open your browser and navigate to `http://localhost:5173` (or the port shown in your terminal)
+4. Open your browser and navigate to `http://localhost:5173`
 
 
 ## API Details
@@ -52,7 +52,7 @@ A modern, responsive React weather application that provides real-time weather i
 - Parameters:
   - `q`: City name
   - `units`: Metric (for Celsius)
-  - `appid`: API key
+  - `apikey`: API key
 
 ## Usage
 
@@ -102,11 +102,3 @@ weather-app/
 └── vite.config.js
 ```
 
-## License
-
-[MIT](LICENSE)
-
-## Acknowledgements
-
-- Weather icons designed by [Freepik](https://www.freepik.com/)
-- OpenWeatherMap for providing the weather data API
