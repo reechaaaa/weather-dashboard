@@ -4,7 +4,7 @@ A modern, responsive React weather application that provides real-time weather i
 
 # Screenshot
 
-![screenshot1](./Screenshot%202025-04-09%20050902.pngScreenshot 2025-04-09 050902.png)
+![screenshot1](./image2.png)
 ![screenshot2](./image.png)
 
 
